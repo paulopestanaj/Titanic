@@ -2,6 +2,8 @@
 
 Documento para registrar as análises e a modelagem desenvolvida.
 
+Análise dos dados | [feature_analysis.ipynb](../../Code/Analysis/feature_analysis.ipynb) | 
+Modelagem dos Dados| [data_model.ipynb](../../Code/Model/modeling.ipynb) | 
 
 ## Análise de Dados
 

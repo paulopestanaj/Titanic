@@ -37,7 +37,7 @@ Com isso, teremos um problema de Classificação, para determinar quem sobrevive
 
 * Dados:
   * Os dados são entregues através de 2 arquivos CSV
-  * Relatório de dados disponível [aqui](../DataReport/Report.md "Relatório de dados")
+  * Relatório de dados disponível [aqui](Docs/DataReport/Report.md "Relatório de dados")
 
 * Modelos:
   * Classificador binário para estimar a probabilidade da pessoa ter sobrvivido ou não ao desastre.
@@ -46,7 +46,7 @@ Com isso, teremos um problema de Classificação, para determinar quem sobrevive
   * Os hiper-parâmetros dos modelos serão ajustados segundo uma busca exaustiva em grid-search.
   * A base de dados será dividida em treino (70%) e teste (30%), mantendo a proporção de classes nos dois conjuntos de dados.
   * Os modelos serão avaliados considerando o conjunto de teste.
-  * Os modelos e as análises sobre os dados podem ser estudadas [aqui](../Model/Report.md "Relatório de modelagem")
+  * Os modelos e as análises sobre os dados podem ser estudadas [aqui](Docs/Model/Report.md "Relatório de modelagem")
   
   
 * Entregáveis:
